@@ -1,0 +1,21 @@
+{
+    "name": "zhimeilin/modules",
+    "description": "模块库",
+    "type": "library",
+    "require": {
+        "monolog/monolog": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zhimeilin\\Modules\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zinn",
+            "email": "2912847115@qq.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
