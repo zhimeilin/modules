@@ -2,6 +2,6 @@
 
 require __DIR__ . '/../vendor/autoload.php';
 
-use Zhimeilin\Modlues\Import;
+use Zhimeilin\Modules\Import;
 
 Import::module();
